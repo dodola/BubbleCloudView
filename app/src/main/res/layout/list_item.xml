@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="@dimen/item_size"
+    android:layout_height="@dimen/item_size"
+    android:background="@drawable/item_circle">
+
+    <com.pkmmte.view.CircularImageView
+        android:id="@+id/item_round"
+        android:layout_width="@dimen/item_size"
+        android:layout_height="@dimen/item_size" />
+</RelativeLayout>

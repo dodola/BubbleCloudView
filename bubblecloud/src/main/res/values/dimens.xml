@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="screenw">200dp</dimen>
+    <dimen name="screenh">250dp</dimen>
+    <dimen name="containerw">224dp</dimen>
+    <dimen name="containerh">264dp</dimen>
+    <dimen name="sphereR">100dp</dimen>
+    <dimen name="hexR">43dp</dimen>
+    <dimen name="item_size">43dp</dimen>
+    <dimen name="edge_size">12dp</dimen>
+</resources>
